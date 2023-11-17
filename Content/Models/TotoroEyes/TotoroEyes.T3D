@@ -1,0 +1,4 @@
+Begin Object Class=/Script/Engine.Skeleton Name="Totoro_Mesh_CH_Eyes_Skeleton" ExportPath=/Script/Engine.Skeleton'"/Game/Models/Totoro/Totoro_Mesh_CH_Eyes_Skeleton.Totoro_Mesh_CH_Eyes_Skeleton"'
+   BoneTree(0)=()
+   PreviewSkeletalMesh="/Game/Models/Totoro/Totoro_Mesh.Totoro_Mesh_CH_Eyes"
+End Object
